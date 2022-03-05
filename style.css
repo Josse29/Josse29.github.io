@@ -1,0 +1,41 @@
+body{
+	text-align: center;
+	background-image: url(bg.png);
+}
+.container{
+	text-align: center;
+	border : 2px solid black;
+	font-family: arial;
+	width: 550px;
+	border-radius: 40px;
+}
+h2{
+	opacity: 0.5;
+}
+
+img{
+	width:220px;
+	border-radius: 30px;
+	height: 330px;
+
+}
+.cv{
+	padding :5px;
+}
+
+ol li {
+	text-align:  left;
+}
+.sosmed img{
+	width :50px;
+	height: 50px;
+}
+
+a:hover{
+	opacity: 0.5;
+	cursor: pointer;
+}
+table{
+	border-spacing: 10px;
+	padding :0px;
+}
